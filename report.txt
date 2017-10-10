@@ -1,0 +1,18 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp1000.grading.PA2aGrading#testZero: +5
+edu.wit.cs.comp1000.grading.PA2aGrading#testPosWhole: +5
+edu.wit.cs.comp1000.grading.PA2aGrading#testPosDec: +5
+edu.wit.cs.comp1000.grading.PA2aGrading#testNegWhole: +5
+edu.wit.cs.comp1000.grading.PA2aGrading#testNegDec: +5
+edu.wit.cs.comp1000.grading.PA2aGrading#testMixSingle: +10
+edu.wit.cs.comp1000.grading.PA2aGrading#testMixRound: +20
+edu.wit.cs.comp1000.grading.PA2bGrading#testImagWhole: +5
+edu.wit.cs.comp1000.grading.PA2bGrading#testImagDec: +5
+edu.wit.cs.comp1000.grading.PA2bGrading#testSingle: +5
+edu.wit.cs.comp1000.grading.PA2bGrading#testTwoWhole: +10
+edu.wit.cs.comp1000.grading.PA2bGrading#testTwoDec: +20
+
+== ontime ==
+ontime: +0
